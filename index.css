@@ -1,12 +1,29 @@
 body {
+  font-family: Helvetica, sans-serif;
   background-color: #f7eeed;
   text-align: right;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 #abt_img {
   float: left;
 }
 img {
-  height: 250px;
-  width: 250px;
+  height: 500px;
+  width: 500px;
+}
+
+h1{
+  color: #d3488d;
+  font-size: 50px;
+  margin-bottom: 1px;
+}
+
+p {
+  font-size: 25px;
+}
+
+a{
+  color: #ff659d;
 }
